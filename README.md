@@ -1,4 +1,4 @@
-# ⚡ ZenShoukai Tweaks v2.2 — Ultimate FiveM Performance Optimizer
+# ⚡ ZenShoukai Tweaks v3.1 — Ultimate FiveM Performance Optimizer
 
 **ZenShoukai Tweaks** is a powerful Windows optimization toolkit designed to maximize performance, reduce latency, and improve system responsiveness — specifically tailored for **FiveM and GTA V environments**.
 
